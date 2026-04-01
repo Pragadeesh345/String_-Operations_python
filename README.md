@@ -11,6 +11,10 @@ Operations in this program:
 - Remove vowels from string
 - Count number of words in the string
 
+
+#future work
+use of dictionary to calculate these functions 
+
 I used functions for each operation to practice Python functions, loops and conditions.
 
 This program was written for practice while learning Python.
